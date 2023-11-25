@@ -1,0 +1,7 @@
+name: ttt-da
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - pandas
