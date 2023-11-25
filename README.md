@@ -23,6 +23,7 @@ The project structure is organized as follows:
 ```bash
 ├── data_preprocessing.ipynb
 ├── user_trips_analysis.ipynb
+├── chalothorn_ttt_answer.pdf
 ├── environment.yml
 ├── README.md
 └── data
